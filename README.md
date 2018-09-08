@@ -9,3 +9,6 @@
 >以下是一张图片：
 >
 >![photo](https://github.com/EndeRHoshI/Photo/raw/master/%E5%A4%B4%E5%83%8F.png "恐龙")
+
+## 目录
+* blog 用于存放博客图片
