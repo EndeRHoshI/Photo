@@ -12,3 +12,4 @@
 
 ## 目录
 * blog 用于存放博客图片
+* markdown 用于存放写markdown笔记的图片
